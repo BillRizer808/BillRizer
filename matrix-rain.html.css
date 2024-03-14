@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+/* style.css */
+body, html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    background-image: url('your-background-image.jpg'); /* 可以替换成你的自定义背景图片 */
+    background-size: cover;
+}
+
+canvas {
+    display: block;
+}
